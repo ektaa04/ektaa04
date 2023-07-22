@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ekta Sahu</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Full Stack Developer And  Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ektaa04&label=Profile%20views&color=0e75b6&style=flat" alt="ektaa04" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow, Sci-Kit Learn,**
+- 🌱 I’m currently learning **Angular and Nodejs**
 
-- 💬 Ask me about **NumPy, Pandas, Python, Java**
+- 💬 Ask me about **Java, C++, HTML, CSS, Bootstrap, Angular, Spring Boot **
 
 - 📫 How to reach me **esahu2424@gmail.com**
 
-- ⚡ Fun fact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
